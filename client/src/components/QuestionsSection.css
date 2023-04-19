@@ -1,0 +1,51 @@
+.QuestionsComponent {
+    float: left;
+    color: grey;
+    font-weight: 300;
+    font-size: .9em;
+}
+
+.QuestionsComponent:hover {
+    color: teal;
+}
+
+.QuestionsComponent:active {
+    color: teal;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.QuestionsComponent-AllQuestions {
+    margin-top: 40px;
+    float: left;
+    color: grey;
+    height: 50px;
+    width: 90%;
+    display: block;
+    outline: 2px green;
+}
+
+.QuestionsComponent-AllQuestions-names {
+    color: teal;
+    font-weight: normal;
+    font-size: smaller;
+    display: inline;
+}
+
+.QuestionsComponent-AllQuestions-Questions {
+    color: grey;
+    font-weight: normal;
+    font-size: smaller;
+    display: inline;
+}
+
+.review-line {
+    position: relative;
+    margin-top: 55px;
+    margin-left: 10px;
+    left: 0;
+    height: 90px;
+    width: 15px;
+    border-right: 2px green solid;
+    z-index:4;
+}

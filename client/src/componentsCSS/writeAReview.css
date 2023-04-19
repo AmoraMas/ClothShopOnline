@@ -1,0 +1,320 @@
+.field::before{
+    content: "*";
+    color: red;
+}
+
+.score::before{
+    content: "*";
+    color: red;
+}
+
+.title::before{
+    content: "*";
+    color: red;
+}
+
+.review::before{
+    content: "*";
+    color: red;
+}
+
+.username::before{
+  content: "*";
+  color:red
+}
+
+.useremail::before{
+  content: "*";
+  color:red
+}
+
+.writeareview{
+    margin-left: 20px;;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.field{
+    margin-left: 20px;;
+    margin-bottom: 20px;
+}
+
+.score{
+    margin-left: 20px;;
+    margin-bottom: 20px;
+}
+
+.reviewstars{
+    margin-left: 20px;;
+    margin-bottom: 20px;
+}
+
+.title{
+    margin-left: 20px;;
+    margin-bottom: 20px;
+}
+
+.titlebox input{
+    margin-left: 20px;;
+    margin-bottom: 20px;
+    width: 70%;
+    height: 25px;
+}
+
+.review{
+    margin-left: 20px;;
+    margin-bottom: 20px;
+}
+
+.reviewbox input{
+    margin-left: 20px;;
+    margin-bottom: 20px;
+    height: 60px;
+    width: 70%;
+}
+
+.overallsatisfaction{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.ratingquestion{
+  /*position: relative;*/
+  margin-bottom: 50px;
+}
+
+.fitquestion{
+    margin-bottom: 50px;
+  }
+
+  .scalequestion{
+    /*height: 230px;*/
+  }
+
+  .experience{
+    margin-bottom: 10px;
+    /*width: 25%;*/
+    height: 150px;
+  }
+
+  .satisfactionrate {
+    /*margin-top: 6px;*/
+    margin-top: -10px;
+    margin-right: 15px;
+
+    /*float: left;*/
+  }
+  
+  .notsatisfiedcontainer {
+    float: left;
+    /*margin-top: 10px;*/
+    margin-bottom: 10px;
+    /*margin-right: 1475px;*/
+    margin-left: 20px;
+    line-height: 1.2;
+    width: 108px;
+    flex-wrap: wrap;
+    display: flex;
+    position: relative;
+    bottom: -10px;
+  }
+
+  .somewhatsatisfied{
+    /*margin-top: 15px;*/
+    margin-right: 15px;
+    float: left;
+  }
+
+  .somewhatcontainer {
+    /*position: relative;*/
+    top: -13px;
+    left: -20px;
+    /*float: right;*/
+    /*margin-top: px;*/
+    /*margin-bottom: 8px;*/
+    /*margin-right: 1455px;*/
+    line-height: 1.2;
+    width: 10%;
+  }
+
+  .somesatisfied{
+    /*margin-top: 10px;*/
+  }
+
+  .satisfiedradio{
+    margin-top: 15px;
+    margin-right: 15px;
+    float: left;
+  }
+
+  .satisfied{
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  .satisfiedcontainer{
+    /*position: relative;*/
+    /*top:-40px;*/
+    /*float: right;*/
+    margin-top: 10px;
+    /*margin-bottom: 10px;*/
+    /*margin-right: 1475px;*/
+    line-height: 1.2;
+    width: 100px;
+  }
+
+  .very{
+    margin-right: 15px;
+    float: left;
+  }
+
+  .verysatisfied{
+    /*position: relative;*/
+    top:-6px
+  }
+
+  .verycontainer{
+    /*position: relative;*/
+    top: -35px;
+    left: -20px;
+    /*float: right;*/
+    margin-top: px;
+    margin-bottom: 8px;
+    /*margin-right: 1455px;*/
+    line-height: 1.2;
+    width: 100px;
+  }
+
+  .extremely{
+    margin-top: px;
+    margin-right: 15px;
+    float: left;
+  }
+
+  .extremelysatisfied{
+    /*position: relative;*/
+    bottom:-12px
+  }
+
+  .extremelycontainer{
+    /*position: relative;*/
+    top: -23px;
+    left: -20px;
+    /*float: right;*/
+    margin-top: px;
+    margin-bottom: 8px;
+    /*margin-right: 1455px;*/
+    line-height: 1.2;
+    width: 100;
+  }
+
+  p{
+    /*display: inline-block;*/
+    margin-bottom: 25px;
+  }
+
+  .runssmall, .truetosize, .runsbig{
+    /*position: relative;*/
+    margin-left: 10px;
+  }
+
+  .smallcontainer{
+    /*float: right;*/
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /*margin-right: 1525px;*/
+    line-height: 1.2;
+    width: 10%;
+  }
+
+  .truecontainer{
+    /*position: relative;*/
+    top:-12px;
+    /*float: right;*/
+    /*margin-right: 1525px;*/
+    width: 10%;
+  }
+
+  .bigcontainer{
+    /*position: relative;*/
+    top:-12px;
+    /*float: right;*/
+    /*margin-right: 1525px;*/
+    width: 10%;
+  }
+
+  .scaleradio1{
+    /*position: relative;*/
+    bottom: -27px;
+    margin-right: 15px;
+    float: left;
+  }
+
+   .scaleradio2, .scaleradio3, .scaleradio4, .scaleradio5 {
+    margin-right: 15px;
+    float: left;
+  }
+
+  .scale1container,.scale2container,.scale3container,.scale4container,.scale5container{
+    /*position: relative;*/
+    top:-12px;
+    right: -50px;
+    width: 10%;
+  }
+
+  .scale1{
+    /*position: relative;*/
+    bottom: -20px;
+    left: -588px;
+  }
+
+  .earlyradio, .ontimeradio, .lateradio{
+    margin-right: 15px;
+    float: left;
+  }
+
+  .early, .ontime, .late{
+    /*position: relative;*/
+    top: -5px;
+    right: -18px;
+    margin-bottom: 10px;
+  }
+
+  .patterndiv{
+    height: 400px;
+    /*width: 23%;*/
+  }
+
+  .sublimation, .heattransfer,.screenprinting, .tiedye,.emroidery,.directtogarment,.keepitblank{
+    margin-left: 30px;
+  }
+
+
+  .usernamebox{
+    height: 25px;
+    width: 400px;
+  
+  }
+
+  .useremailbox{
+    height: 25px;
+    width: 400px;
+   
+  }
+
+  .usernameemaildiv{
+    position: relative;
+    margin-left: 205px;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    top: -50px;
+  }
+
+  .usernameemaildiv1 {
+    margin-right: 15px;
+  }
+
+  .overallRating-Flex {
+    flex-wrap: wrap;
+    display: flex;
+  }

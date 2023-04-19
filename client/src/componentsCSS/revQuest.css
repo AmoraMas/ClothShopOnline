@@ -1,0 +1,149 @@
+.reviews-questions-all {
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.reviews-questions-button {
+    padding-bottom: 5px;
+    margin-right: 15px;
+    color: #575757;
+    margin: 5px;
+}
+
+.reviews-questions-button:hover {
+    color: #167fac;
+}
+
+.reviews-questions-button.selected {
+    border-color: #167fac;
+    border-bottom: solid 3px;
+    color: #1564db;
+}
+
+.reviews-dropdown {
+    padding: 6px, 10px, 0px, 15px;
+    cursor: pointer;
+    border-color: #d3d0d0;
+    border-radius: 3px;
+    background: white;
+    width: 220px;
+    height: 35px;
+    margin: 7px;
+}
+
+.reviews-dropdown:hover {
+    border-color: #575757;
+}
+
+.reviews-dropdown::selection {
+    background-color: lightblue;
+}
+
+.review-RatingBar {
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.review-RatingFull,
+.review-RatingEmpty {
+    margin-right: 1px;
+    margin-top: 7px;
+    width: 17px;
+    height: 6px;
+}
+
+.review-RatingFull {
+    background: #1564db;
+}
+
+.review-RatingEmpty {
+    background: #d3d0d0;
+}
+
+.review-stars {
+    color: #1564db;
+}
+
+.review-entry {
+    font-size: 16px;
+    flex-wrap: wrap;
+    display: flex;
+    color: #575757;
+    width: 100%;
+}
+
+.review-pic {
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 20px;
+    line-height: 2.2;
+    background: #1564db;
+    border-radius: 50%;
+    text-align: center;
+    color: #ffffff;
+    height: 45px;
+    width: 45px;
+}
+
+.review-userLeft {
+    width: auto;
+}
+
+.review-userRight {
+    position: relative;
+    width: calc(100% - 90px);
+}
+
+.review-align-right {
+    position: relative;
+    margin-right: 0px;
+    margin-left: auto;
+}
+
+.review-username {
+    color: #167fac;
+    margin-right: 10px;
+}
+
+.review-flex {
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.review-italic {
+    font-style: italic;
+    margin-right: 10px;
+}
+
+.review-bold {
+    font-weight: bold;
+}
+
+.review-space-short {
+    width: 10px;
+}
+
+.review-space-long {
+    width: 40px;
+}
+
+.review-center {
+    width: 275px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.review-link-always {
+    cursor: pointer;
+    color: #1564db;
+}
+
+.review-link:hover {
+    cursor: pointer;
+    color: #1564db;
+}
+
+.review-image {
+    height: 15px;
+    width: 15px;
+}

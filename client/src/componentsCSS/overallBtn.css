@@ -1,0 +1,27 @@
+.dropdowndiv {
+    position: relative;
+    width: 100%;
+    height: 21px;
+}
+
+.buttondiv{
+    position:relative;
+    float: right;
+}
+
+.Review, .Question{
+    margin-right: 20px;
+    background-color: white;
+    border: solid 1px #808080 ;
+    font-weight: 600;
+    color: #808080;
+    padding: 10px;
+}
+
+
+.dropdowndiv{
+    position: relative;
+    height: 21px;
+    width: 100%;
+    top: -10px;
+}

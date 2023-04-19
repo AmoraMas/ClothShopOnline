@@ -1,0 +1,67 @@
+.maincontainer {
+    margin-bottom: -3%;
+    /* margin-top: 100%; */
+}
+
+/* center the container */
+.carocontainer {
+    width: 105%;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+h2 {
+    margin-bottom: 10px;
+    font: "Arial", sans-serif;;
+    font-size: 26px;
+    color: #575757;
+    font-weight: 400;
+}
+
+.productcard .prodimage {
+    margin-left: 10px;
+    padding: 2px;
+    border: 1px solid #cececd;
+    border-radius: 3px;
+}
+
+.productcard ins {
+    padding: 7px;
+    width: 100%;
+    float: left;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+.productcard .reviews .star {
+    padding: 3px;
+    float: left;
+    color: #167fac;
+}
+
+/* As Low as... price */
+.productcard .prodprice b {
+    margin-top: 10px;
+    font: "Arial", sans-serif;
+    font-size: 20px;
+    color: #167fac;
+}
+
+/* hover effect components */
+
+.prodtype a:hover {
+    color: #167fac;
+    text-decoration: underline;
+}
+
+.prodbrand a:hover {
+    color: #167fac;
+    text-decoration: underline;
+}
+
+.prodprice a:hover {
+    color: #167fac;
+    text-decoration: underline;
+}

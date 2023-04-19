@@ -1,0 +1,85 @@
+.starReview-Launcher {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    z-index: 100;
+
+    writing-mode: vertical-rl;
+    text-orientation: sideways;
+    
+    padding-right: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    cursor: pointer;
+    background: #1657ac;
+    color: white;
+    height: 125px;
+    width: 35px;
+}
+
+.starReview-Launcher:hover {
+    background: #277ceb;
+}
+
+.starReview-Screen {
+    position: fixed;
+    z-index: 100;
+    height: 100vh;
+    width: 100vw;
+    background: rgba(25, 25, 25, 0.7)
+}
+
+.starReview-BigModal {
+    transform: translate(-50%, -50%);
+    background: white;
+    position: absolute;
+    max-height: 500px;
+    max-width: 500px;
+    top: 50%;
+    left: 50%;
+}
+
+.starReview-BigModal-topBar {
+    text-transform: uppercase;
+    background: #277ceb;
+    text-align: center;
+    color: white;
+    height: 90px;
+}
+
+.starReview-closeButton {
+    cursor: pointer;
+    position: absolute;
+    right: 5px;
+    height: 22px;
+    width: 22px;
+}
+
+.starReview-Title {
+    font-size: 24px;
+    padding-top: 20px;
+}
+
+.starReview-BigModal-starBar {
+    color: #277ceb;
+    height: 75px;
+    flex-wrap: wrap;
+    display: flex;
+    padding-top: 20px;
+}
+
+.starReview-BigModal-starBar-stars {
+    font-size: 24px;
+    padding-left: 10px;
+}
+
+.starReview-BigModal-starBar-text {
+    font-size: 14px;
+    padding-top: 16px;
+    padding-left: 5px;
+}
+
+.starReview-ScrollBox {
+    overflow-y: auto;
+    height: 300px;
+}

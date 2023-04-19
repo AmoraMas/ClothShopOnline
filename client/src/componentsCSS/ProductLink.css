@@ -1,0 +1,32 @@
+/* Style the list */
+ul .breadcrumb li {
+    padding: 3px;
+    margin-left: 30px;
+}
+
+/* Display list items side by side */
+.breadcrumb li {
+    font-size: 13px;
+    font: "Arial", sans-serif;
+    color: #575757;
+    margin-right: 65%;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+.breadcrumb li+li:before {
+    padding: 4px;
+    color: black;
+    content: "/";
+}
+
+/* Add a color to all links inside the list */
+.breadcrumb li a {
+    color: #575757;
+    text-decoration: underline;
+}
+
+/* Add a color on mouse-over */
+.breadcrumb li a:hover {
+    color: #167fac;
+    text-decoration: underline;
+}

@@ -1,0 +1,252 @@
+
+
+
+.satisfactionbar1{
+    width: 12%;
+    height: 7px;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 2px;
+    background-color: #167FAC;
+    
+  }
+
+  .satisfactionbar2{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+  }
+
+  .satisfactionbar3{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+    }
+
+  .satisfactionbar4{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+  }
+
+  .satisfactionbar5{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+    }
+
+  .somewhatbar1{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 2px;
+    background-color: #167FAC;
+    
+  }
+
+  .somewhatbar2{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+    background-color: #167FAC;
+  }
+
+  .somewhatbar3{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+  }
+
+  .somewhatbar4{
+    width: 12%;
+    height: 7px;
+    background-color:#ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+  }
+
+  .somewhatbar5{
+    width: 12%;
+    height: 7px;
+    background-color:#ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+    
+  }
+
+  .satisfiedbar1{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 2px;
+    background-color: #167FAC;
+    
+  }
+
+  .satisfiedbar2{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+    background-color: #167FAC;
+  }
+
+  .satisfiedbar3{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+    background-color:#167FAC;
+  }
+
+  .satisfiedbar4{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+  }
+
+  .satisfiedbar5{
+    width: 12%;
+    height: 7px;
+    background-color:#ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+  }
+
+  .verybar1{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 2px;
+    background-color: #167FAC;
+    
+  }
+
+  .verybar2{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+    background-color: #167FAC;
+  }
+
+  .verybar3{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+    background-color:#167FAC;
+  }
+
+  .verybar4{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+    background-color:#167FAC;
+  }
+
+  .verybar5{
+    width: 12%;
+    height: 7px;
+    background-color:#ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+  }
+
+  .extremelybar1{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 2px;
+    background-color: #167FAC;
+    
+  }
+
+  .extremelybar2{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+    background-color: #167FAC;
+  }
+
+  .extremelybar3{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+    background-color:#167FAC;
+  }
+
+  .extremelybar4{
+    width: 12%;
+    height: 7px;
+    background-color: #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+    background-color:#167FAC;
+  }
+
+  .extremelybar5{
+    width: 12%;
+    height: 7px;
+    background-color:black;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+    background-color: #167FAC;
+  }
