@@ -19,6 +19,8 @@ https://www.clothingshoponline.com/p/gildan/18500_heavy-blend-hooded-sweatshirt
 
 ## General Information
   > We all picked a web-application we wanted to replicate with React to get more familiar and practice with. We broke down the site into components with a wire frame of the page layout. Then we each picked different parts to duplicate until the whole page came together. We had one week and two weekends to put the whole thing together while continuing other studies and class teachings. We structured our progress utilizing Agile Sprint Methodologies.
+  
+  - [Additional Documentation](/documentation/README.md)
 
 ## Technologies Used
   > HTML5, CSS3, JavaScript, React.js, Node.js, PostgreSQL, Docker, Render.com
